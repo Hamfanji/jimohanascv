@@ -1,0 +1,25 @@
+body{
+  background-color: #000000;
+}
+.Headings{
+color: #ff4500;
+font-weight: 100px;
+font-size: xx-large;
+}
+.Sub-headings{
+  color: orangered;
+  font-weight: 50px;
+  font-size: small;
+}
+.writings{
+  color: aliceblue;
+}
+img{
+  width: 20%;
+  height: auto;
+  border-radius: 50%;
+  
+}
+.flex-container{
+  display: flex;
+}
